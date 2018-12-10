@@ -1,0 +1,4 @@
+#Sat Feb 03 13:17:24 IST 2018
+base.0=D\:\\AndroidStudioWorkspace\\AGEACNG\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

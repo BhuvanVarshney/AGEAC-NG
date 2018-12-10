@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Feb 03 13:17:25 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\AndroidStudioWorkspace\\AGEACNG\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
